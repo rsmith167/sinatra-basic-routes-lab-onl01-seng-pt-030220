@@ -9,7 +9,7 @@ end
 get '/' hometown do
   "My hometown is Atlanta"
 end
-get '/' favorite_song do
+get '/' favorite-song do
   "My favorite song is P"
 end
   
